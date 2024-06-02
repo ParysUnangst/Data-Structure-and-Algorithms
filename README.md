@@ -44,22 +44,33 @@ Make sure you have Python installed on your machine. You can download and instal
 Usage
 Each assignment is contained within its own directory. Navigate to the directory of the assignment you want to explore and run the Python script to see the implementation in action.
 
+
 For example, to run the Simple Text Editor assignment:
 
 bash
 Copy code
+
 cd simple-text-editor
+
 python simple_text_editor.py
+
+
 Contributing
 Contributions are welcome! If you have an idea for an improvement or a new assignment, feel free to open an issue or submit a pull request.
 
 To contribute:
 
 Fork the repository.
+
 Create a new branch (git checkout -b feature-branch).
+
 Make your changes and commit them (git commit -m 'Add some feature').
+
 Push to the branch (git push origin feature-branch).
+
 Open a pull request.
+
+
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
