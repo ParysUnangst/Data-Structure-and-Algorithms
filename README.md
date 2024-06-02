@@ -33,8 +33,11 @@ Getting Started
 To get started with this repository, clone it to your local machine using the following command:
 
 bash
+
 Copy code
+
 git clone https://github.com/your-username/data-structures-and-algorithms.git
+
 Prerequisites
 Make sure you have Python installed on your machine. You can download and install Python from the official website.
 
