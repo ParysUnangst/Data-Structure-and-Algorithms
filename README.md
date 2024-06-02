@@ -1,5 +1,5 @@
 
-Sure! Here is a README for a GitHub repository that includes data structures and algorithm assignments:
+
 
 Data Structures and Algorithms Repository
 Welcome to the Data Structures and Algorithms repository! This repository contains a collection of assignments
